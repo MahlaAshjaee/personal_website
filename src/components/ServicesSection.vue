@@ -1,12 +1,14 @@
 <template>
   <section
     id="services"
-    class="relative w-full pt-20 pb-10 px-12 rounded-t-3xl overflow-hidden"
+    class="relative w-full pt-8 pb-14 px-12 rounded-t-3xl overflow-hidden"
     style="background: url(&quot;/Frame.png&quot;) center/cover no-repeat"
   >
     <div class="max-w-6xl mx-auto">
       <div class="flex flex-col md:flex-row md:justify-between items-center mb-10">
-        <h2 class="max-md:bg-[#1e1d1d] max-md:p-3 max-md:rounded-xl max-md:mb-0 text-3xl md:text-4xl font-bold text-white drop-shadow">
+        <h2
+          class="max-md:bg-[#1e1d1d] max-md:p-3 max-md:rounded-xl max-md:mb-0 text-3xl md:text-4xl font-bold text-white drop-shadow"
+        >
           خدمات
           <span class="text-orange-400">من</span>
         </h2>
@@ -187,7 +189,7 @@ import RocketLaunchIcon from "vue-material-design-icons/RocketLaunch.vue";
 }
 .swiper-pagination {
   position: absolute !important;
-  bottom: -25px !important; 
+  bottom: -30px !important;
 }
 
 @media (min-width: 1024px) {

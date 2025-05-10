@@ -12,7 +12,7 @@
         <span class="text-orange-500"> مهلا حصاری</span>
         <span class="inline text-zinc-900"> | طراح فرانت‌اند وب</span>
       </h1>
-      <p class="mt-2 md:mt-10 mb-16 md:mb-0 text-zinc-700 text-sm md:text-xl md:font-semibold">
+      <p class="mt-4 md:mt-10 text-zinc-700 text-sm md:text-xl font-semibold">
         با یک سال تجربه در برنامه‌نویسی و ساخت وب‌سایت‌های حرفه‌ای.
       </p>
     </div>
@@ -36,9 +36,24 @@
         draggable="false"
       />
     </div>
+    <div class="absolute">
+      <img
+        src="/star.png"
+        class="relative left-[190%] opacity-35 rotate-90 w-[110%]"
+        style="margin-bottom: -130px"
+        alt="profile"
+        draggable="false"
+      />
+      <img
+        src="/star1.png"
+        class="relative right-[190%] opacity-35 rotate-90 bottom-0"
+        alt="profile"
+        draggable="false"
+      />
+    </div>
 
     <div
-      class="absolute left-0 right-0 flex flex-col md:flex-row justify-between items-center md:items-start w-full px-6 md:px-20 z-30"
+      class="hidden md:block absolute left-0 right-0 flex-col md:flex-row justify-between items-center md:items-start w-full px-6 md:px-20 z-30"
       style="top: 68%"
     >
       <div class="max-w-xs lg:max-w-sm text-center md:text-right my-8 md:my-0">
@@ -48,10 +63,8 @@
           طراحی‌های من عملکرد سایت شما را تضمین می‌کند. رضایت مشتریان همیشه اولویت من بوده است.
         </p>
       </div>
-      <div class="hidden md:block max-w-xs text-right leading-10">
-        <span class="text-orange-400 pl-0 md:pl-2 font-bold text-xl md:text-4xl mb-0 block"
-          >★★★★★</span
-        >
+      <div class="max-w-xs text-right leading-10">
+        <span class="text-orange-400 pl-0 md:pl-2 font-bold text-xl md:text-4xl block">★★★★★</span>
         <div class="text-zinc-900 text-5xl font-extrabold">۱ سال</div>
         <div class="text-zinc-600 text-md">سابقه تخصصی</div>
       </div>

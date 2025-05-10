@@ -25,7 +25,7 @@
       </div>
 
       <div class="w-full text-center md:text-right mt-8 md:mt-0">
-        <h3 class="text-4xl max-md:text-2xl font-bold text-gray-800 max-md:mb-3 mb-6">
+        <h3 class="text-4xl max-md:text-2xl font-bold text-gray-800 max-md:mb-5 mb-6">
           چرا <span class="text-orange-500 font-bold">من </span> را انتخاب کنید؟
         </h3>
 
@@ -56,7 +56,7 @@
 
 <style scoped>
 section {
-  direction: rtl; 
+  direction: rtl;
 }
 
 .container {
