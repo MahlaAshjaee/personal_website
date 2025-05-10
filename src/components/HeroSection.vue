@@ -53,18 +53,20 @@
     </div>
 
     <div
-      class="hidden md:block absolute left-0 right-0 flex-col md:flex-row justify-between items-center md:items-start w-full px-6 md:px-20 z-30"
+      class="absolute left-0 right-0 flex flex-col md:flex-row justify-between items-center md:items-start w-full px-6 md:px-20 z-30"
       style="top: 68%"
     >
-      <div class="max-w-xs lg:max-w-sm text-center md:text-right my-8 md:my-0">
+      <div class="hidden md:block max-w-xs lg:max-w-sm text-center md:text-right my-8 md:my-0">
         <p
           class="font-semibold text-zinc-700 text-sm md:text-xl lg:text-3xl leading-6 md:leading-10"
         >
           طراحی‌های من عملکرد سایت شما را تضمین می‌کند. رضایت مشتریان همیشه اولویت من بوده است.
         </p>
       </div>
-      <div class="max-w-xs text-right leading-10">
-        <span class="text-orange-400 pl-0 md:pl-2 font-bold text-xl md:text-4xl block">★★★★★</span>
+      <div class="hidden md:block max-w-xs text-right leading-10">
+        <span class="text-orange-400 pl-0 md:pl-2 font-bold text-xl md:text-4xl mb-0 block"
+          >★★★★★</span
+        >
         <div class="text-zinc-900 text-5xl font-extrabold">۱ سال</div>
         <div class="text-zinc-600 text-md">سابقه تخصصی</div>
       </div>
