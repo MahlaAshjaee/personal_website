@@ -39,14 +39,15 @@
     <div class="absolute">
       <img
         src="/star.png"
-        class="relative left-[190%] opacity-35 rotate-90 w-[110%]"
-        style="margin-bottom: -130px"
+        class="relative left-[110%] opacity-35 rotate-90 -bottom-4"
+        style="margin-bottom: -130px; width: 280px"
         alt="profile"
         draggable="false"
       />
       <img
-        src="/star1.png"
-        class="relative right-[190%] opacity-35 rotate-90 bottom-0"
+        src="/Rectangle.png"
+        class="relative right-[130%] opacity-35 bottom-24"
+        style="width: 540px"
         alt="profile"
         draggable="false"
       />
