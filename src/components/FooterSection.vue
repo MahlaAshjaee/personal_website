@@ -45,7 +45,7 @@
           <h3 class="text-lg font-bold">شبکه‌های اجتماعی</h3>
           <!-- تلگرام -->
           <a
-            href="https://t.me/Mahlahesari"
+            href="https://t.me/MahlaHesari"
             target="_blank"
             class="hover:text-orange-400 flex items-center gap-2"
           >
