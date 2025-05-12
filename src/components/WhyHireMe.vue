@@ -33,19 +33,19 @@
           من مهلا حصاری، طراح فرانت‌اند وب با تجربه‌ای غنی، تخصص در خلق طراحی‌های حرفه‌ای و
           کاربرپسند دارم. هدف من همیشه فراتر رفتن از انتظارات شماست؛ از ساخت صفحات واکنش‌گرا گرفته
           تا ارتقای عملکرد وب‌سایت! با سابقه اجرای بیش از
-          <span class="text-orange-500 font-bold">۱۵۰ پروژه موفق</span> و جلب رضایت بیش از
-          <span class="text-orange-500 font-bold">۳۰ مشتری خوشنود</span>، آماده‌ام تا تجربه‌ای تازه
+          <span class="text-orange-500 font-bold"> ۳۰ پروژه موفق</span> و جلب رضایت بیش از
+          <span class="text-orange-500 font-bold"> ۱۵ مشتری خوشنود</span>، آماده‌ام تا تجربه‌ای تازه
           و منحصربه‌فرد در ساخت وب‌سایتی مطابق با نیاز شما ارائه دهم. انتخاب من یعنی همکاری با فردی
           مبتنی بر جزئیات، خلاقیت، و تعهد به کیفیت.
         </p>
 
         <div class="flex justify-center md:justify-end gap-12 pt-10 px-4 mb-6">
           <div>
-            <div class="font-bold text-3xl text-orange-500">۱۵۰+</div>
+            <div class="font-bold text-3xl text-orange-500">۳۰+</div>
             <div class="text-sm text-gray-500">پروژه های انجام شده</div>
           </div>
           <div>
-            <div class="font-bold text-3xl text-orange-500">۳۰+</div>
+            <div class="font-bold text-3xl text-orange-500">۱۵+</div>
             <div class="text-sm text-gray-500">مشتریان راضی</div>
           </div>
         </div>

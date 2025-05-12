@@ -25,7 +25,7 @@
 
         <div class="md:col-start-1 flex flex-col items-end md:pl-20 pt-10 md:py-16 z-10">
           <span class="block font-bold text-lg md:text-xl text-zinc-800">Red Company</span>
-          <span class="text-xs text-gray-500 mt-1">فروردین ۱۴۰۳ – آبان ۱۴۰۴</span>
+          <span class="text-xs text-gray-500 mt-1">آبان ۱۴۰۳ – فروردین ۱۴۰۴</span>
         </div>
         <div class="md:col-start-2 flex flex-col items-start md:pr-20 pt-4 md:py-16 z-10">
           <span class="block font-bold text-lg md:text-xl text-zinc-800"
@@ -39,7 +39,7 @@
 
         <div class="md:col-start-1 flex flex-col items-end md:pl-20 pt-10 md:py-8 z-10">
           <span class="block font-bold text-lg md:text-xl text-zinc-800">Tat Family</span>
-          <span class="text-xs text-gray-500 mt-1">شهریور ۱۴۰۲ – خرداد ۱۴۰۳</span>
+          <span class="text-xs text-gray-500 mt-1">آذر ۱۴۰۲ – خرداد ۱۴۰۳</span>
         </div>
         <div class="md:col-start-2 flex flex-col items-start md:pr-20 pt-4 md:py-8 z-10">
           <span class="block font-bold text-lg md:text-xl text-zinc-800"
@@ -52,7 +52,7 @@
 
         <div class="md:col-start-1 flex flex-col items-end md:pl-20 pt-10 md:py-16 z-10">
           <span class="block font-bold text-lg md:text-xl text-zinc-800"> سابقه فریلنسری </span>
-          <span class="text-xs text-gray-500 mt-1">۱۴۰۱ تا اکنون</span>
+          <span class="text-xs text-gray-500 mt-1">۱۴۰۲ تا اکنون</span>
         </div>
         <div class="md:col-start-2 flex flex-col items-start md:pr-20 py-4 md:py-16 z-10">
           <span class="block font-bold text-lg md:text-xl text-zinc-800"
